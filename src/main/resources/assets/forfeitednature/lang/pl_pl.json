@@ -1,0 +1,13 @@
+{
+  "item.forfeitednature.magnesium_nugget": "Bryłka Magnezu",
+  "item.forfeitednature.magnesium_ingot": "Sztabka Magnezu",
+  "item.forfeitednature.raw_magnesium_nugget": "Bryłka Rudy Magnezu",
+  "item.forfeitednature.raw_magnesium": "Ruda Magnezu",
+
+  "block.forfeitednature.magnesium_block": "Blok Magnezu",
+  "block.forfeitednature.raw_magnesium_block": "Blok Rudy Magnezu",
+  "block.forfeitednature.deepslate_magnesium_ore": "Łupkowa Ruda Magnezu",
+  "block.forfeitednature.magnesium_ore": "Ruda Magnezu",
+
+  "itemgroup.metals": "Metale"
+}

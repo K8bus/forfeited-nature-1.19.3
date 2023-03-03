@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "magnesium",
+  "ingredient": {
+    "item": "forfeitednature:raw_magnesium"
+  },
+  "result": "forfeitednature:magnesium_ingot"
+}

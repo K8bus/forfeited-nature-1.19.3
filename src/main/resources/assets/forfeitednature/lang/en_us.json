@@ -1,0 +1,13 @@
+{
+  "item.forfeitednature.magnesium_nugget": "Magnesium Nugget",
+  "item.forfeitednature.magnesium_ingot": "Magnesium Ingot",
+  "item.forfeitednature.raw_magnesium_nugget": "Raw Magnesium Nugget",
+  "item.forfeitednature.raw_magnesium": "Raw Magnesium",
+
+  "block.forfeitednature.magnesium_block": "Magnesium Block",
+  "block.forfeitednature.raw_magnesium_block": "Raw Magnesium Block",
+  "block.forfeitednature.deepslate_magnesium_ore": "Deepslate Magnesium Ore",
+  "block.forfeitednature.magnesium_ore": "Magnesium Ore",
+
+  "itemgroup.metals": "Metals"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 25,
+  "experience": 0.1,
+  "group": "magnesium",
+  "ingredient": {
+    "item": "forfeitednature:raw_magnesium_nugget"
+  },
+  "result": "forfeitednature:magnesium_nugget"
+}
